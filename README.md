@@ -22,6 +22,7 @@ My research lab's website:
 <a target="_blank"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-black?logo=pytorch&style=for-the-badge"/></a>
 <a target="_blank"><img alt="Google Colab" src="https://img.shields.io/badge/Google_Colab-black?logo=googlecolab&style=for-the-badge"/></a>
 <a target="_blank"><img alt="NumPy" src="https://img.shields.io/badge/NumPy-black?logo=numpy&style=for-the-badge"/></a>
+<a target="_blank"><img alt="Docker" src="https://img.shields.io/badge/Docker-black?logo=docker&style=for-the-badge"/></a>
 
 <!--
 **s7117/s7117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
