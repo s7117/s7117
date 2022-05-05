@@ -4,7 +4,10 @@ Welcome to my GitHub Profile! My name is Peyton Chandarana. I am currently pursu
 
 # 📧 Contact
 
-You can find my contact information on my personal website:  
+My E-Mail:  
+📧 [**PEYTON@PEYTONSC.COM**](peyton@peytonsc.com)
+
+My personal website:
 🔗 [**PEYTONSC.COM**](https://peytonsc.com)
 
 My research lab's website:  
