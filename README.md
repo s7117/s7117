@@ -7,7 +7,7 @@ Welcome to my GitHub Profile! My name is Peyton Chandarana. I am currently pursu
 My E-Mail:  
 📧 [**PEYTON@PEYTONSC.COM**](peyton@peytonsc.com)
 
-My personal website:
+My personal website:  
 🔗 [**PEYTONSC.COM**](https://peytonsc.com)
 
 My research lab's website:  
