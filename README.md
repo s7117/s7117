@@ -4,17 +4,15 @@ Welcome to my GitHub Profile! My name is Peyton Chandarana. I am currently pursu
 
 # 📧 Contact
 
-My E-Mail:  
+**My E-Mail:**  
 📧 [**PEYTON@PEYTONSC.COM**](mailto:peyton@peytonsc.com)
 
-My personal website:  
-🔗 [**PEYTONSC.COM**](https://peytonsc.com)
-
-My research lab's website:  
-🔗 [**ICASLAB.COM**](https://icaslab.com)
-
-My research lab's GitHub:
-[![iCAS Lab](icaslogo.png)](https://github.com/iCAS-Lab)
+**My personal website:**  
+🔗 [**peytonsc.com**](https://peytonsc.com)
+  
+# [<img src="icaslogo.png" width=4% height=4%>](https://icaslab.com) iCAS Lab's Website and GitHub
+🔗 [**icaslab.com**](https://icaslab.com)  
+🔗 [**github.com/icas-lab**](https://github.com/iCAS-Lab)
 
 # 💻 My Code
 [**ACTIVE REPOS**](https://github.com/s7117-code)  
