@@ -13,6 +13,9 @@ My personal website:
 My research lab's website:  
 🔗 [**ICASLAB.COM**](https://icaslab.com)
 
+My research lab's GitHub:
+[![iCAS Lab](icaslogo.png)](https://github.com/iCAS-Lab)
+
 # 💻 My Code
 [**ACTIVE REPOS**](https://github.com/s7117-code)  
 [**ARCHIVE**](https://github.com/s7117-archive)  
