@@ -19,6 +19,10 @@ Welcome to my GitHub Profile! My name is Peyton Chandarana. I am currently pursu
 [**ARCHIVE**](https://github.com/s7117-archive)  
 
 # 🧰 Dev Tools
+<a target="_blank"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-black?logo=arch-linux&style=for-the-badge"/></a>
+<a target="_blank"><img alt="Windows 11" src="https://img.shields.io/badge/Windows%2011-black?logo=windows&style=for-the-badge&logoColor=blue"/></a>
+<a target="_blank"><img alt="Windows 11" src="https://img.shields.io/badge/MacOS-black?logo=apple&style=for-the-badge&logoColor=white"/></a>
+
 <a target="_blank"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-black?logo=visual-studio-code&style=for-the-badge&logoColor=blue"/></a>
 <a target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?logo=GitHub&style=for-the-badge"/></a>
 <a target="_blank"><img alt="Miniforge" src="https://img.shields.io/badge/Conda--Forge-Miniforge3-blue?style=for-the-badge&labelColor=black&color=blue&logo=condaforge"/></a>
