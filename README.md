@@ -10,7 +10,7 @@ Welcome to my GitHub Profile! My name is Peyton Chandarana. I am currently pursu
 **My personal website:**  
 🔗 [**peytonsc.com**](https://peytonsc.com)
   
-# [<img src="icaslogo.png" width=4% height=4%>](https://icaslab.com) iCAS Lab's Website and GitHub
+# [<img src="icaslogo.png" width=4% height=4%>](https://github.com/iCAS-Lab) iCAS Lab's Website and GitHub
 🔗 [**icaslab.com**](https://icaslab.com)  
 🔗 [**github.com/icas-lab**](https://github.com/iCAS-Lab)
 
