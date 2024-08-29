@@ -1,6 +1,6 @@
 # 👋 About Me
 
-Welcome to my GitHub Profile! My name is Peyton Chandarana. I am currently pursuing a Ph.D. in Computer Engineering at the University of South Carolina. My current research consists of work in neuromorphic computing.
+Welcome to my GitHub Profile! My name is Peyton Chandarana. I am currently pursuing a Ph.D. in Computer Engineering at the University of South Carolina. My current research consists of work in ML/DL efficient hardware design for edge computing applications.
 
 ---
 
