@@ -17,7 +17,7 @@ Welcome to my GitHub Profile! My name is Peyton Chandarana. I am currently pursu
 
 ---
 
-### 🐳 [Check Out My Dockerfiles!](https://github.com/s7117/docker-envs)
+### 🐳 [Check Out My Dockerfiles!](https://github.com/peyton-chandarana/docker-envs)
 
 ---
 
@@ -39,7 +39,7 @@ Welcome to my GitHub Profile! My name is Peyton Chandarana. I am currently pursu
 <a target="_blank"><img alt="Vivado" src="https://img.shields.io/badge/Vivado-black?logo=amd&style=for-the-badge"/></a>
 
 <!--
-**s7117/s7117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**peyton-chandarana/peyton-chandarana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
