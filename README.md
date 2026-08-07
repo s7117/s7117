@@ -1,6 +1,6 @@
 # 👋 About Me
 
-Welcome to my GitHub Profile! My name is Peyton Chandarana. I recently received my Ph.D. in Computer Engineering from the University of South Carolina. My current research of neuromorphic and edge computing for efficient machine learning.
+Welcome to my GitHub Profile! My name is Peyton Chandarana. I am currently a postdoc at Sandia National Laboratories. I received my Ph.D. in Computer Engineering from the University of South Carolina in the Spring of 2026.
 
 ---
 
@@ -8,12 +8,6 @@ Welcome to my GitHub Profile! My name is Peyton Chandarana. I recently received 
 
 **My personal website:**  
 🔗 [**peytonsc.com**](https://peytonsc.com)
-
----
-
-# [<img src="icaslogo.png" width=6% height=6%>](https://github.com/iCAS-Lab) iCAS Lab's Website and GitHub  
-🔗 [**icaslab.com**](https://icaslab.com)  
-🔗 [**github.com/icas-lab**](https://github.com/iCAS-Lab)
 
 ---
 
